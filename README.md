@@ -1,5 +1,6 @@
 Hey There...
-I'm **Blessing Nehohwa**, Data Scientist, Data Analyst and Business Intelligence Analyst with strong background in Information Systems, Statistics, and Accounting.I am studying my Masters in Science at the University of East London, with majors in Data Science and Analytics and Holder of a Bachelor in Information Systems from the  Midlands State University. I am  also an expert Geospatial Data Analysis (GIS)
+I'm **Blessing Nehohwa**, Data Scientist, Data Analyst and Business Intelligence Analyst with strong background in Information Systems, Statistics, and Accounting.I am studying my Masters in Science at the University of East London, with majors in Data Science and Analytics and Holder of a Bachelor in Information Systems from the  Midlands State University. I am  also an expert Geospatial Data Analysis (GIS).Entry level deep learning engineering.
+
 <img src="https://user-images.githubusercontent.com/82777016/189126432-5f8467e5-b13b-40ec-a103-fa1c55162da9.gif" width="50%" height="50%">
 
 
