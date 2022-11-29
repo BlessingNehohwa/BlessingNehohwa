@@ -19,7 +19,8 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://B
 <img src="https://github-readme-stats.vercel.app/api?username=blessingnehohwa&theme=radical&show_icons=true" alt="image" />
 </p>
 
+#
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=Blessingnehohwa&color=blue" alt="image" />
  </p>
