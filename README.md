@@ -15,9 +15,13 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://B
 
 #
 
-<p align="left">
+<p >
 <img src="https://github-readme-stats.vercel.app/api?username=blessingnehohwa&theme=hexo&show_icons=true" alt="image" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessingnehohwa"  > 
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessingnehohwa)](https://github.com/blessingnehohwa/github-readme-stats) 
 
 #
 
