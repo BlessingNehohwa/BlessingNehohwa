@@ -21,7 +21,6 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://B
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blessingnehohwa)](https://github.com/blessingnehohwa/github-readme-stats) 
 
 #
 
