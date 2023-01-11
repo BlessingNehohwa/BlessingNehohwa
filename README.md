@@ -12,12 +12,8 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://B
 #
 
 <p >
-
-
-
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlessingNehohwa&show_icons=true&theme=great-gatsby)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingNehohwa&langs_count=8)](https://github.com/BlessingNehohwa/github-readme-stats)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlessingNehohwa&show_icons=true&theme=great-gatsby)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingNehohwa&langs_count=8  )](https://github.com/BlessingNehohwa/github-readme-stats)
   
 </p>
 
