@@ -14,7 +14,17 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://B
 #
 
 <p >
-<img src="https://github-readme-stats.vercel.app/api?username=blessingnehohwa&theme=hexo&show_icons=true" alt="image" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=BlessingNehohwa&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=BlessingNehohwa&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=BlessingNehohwa&show_icons=true" />
+</picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessingnehohwa"  > 
 </p>
 
