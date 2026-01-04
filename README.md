@@ -13,7 +13,7 @@ Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://b
 #
 
 <p >
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlessingNehohwa&langs_count=8  )](https://github.com/BlessingNehohwa/github-readme-stats)
+      [![Top Langs](https:// )](https://github.com/BlessingNehohwa/github-readme-stats)
   
 </p>
 
