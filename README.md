@@ -1,5 +1,25 @@
-Hey There...
-I'm **Blessing Nehohwa**, UK based Data Scientist,  Data Analyst ,Machine Learning engineer, and Business Analyst with strong background in Information Systems, Statistics, and Finance. Completed Masters in Science with the University of East London UK, with majors in Data Science , Machine Learning and Analytics  with a distinction , also a holder of a Bachelor in Information Systems from the  Midlands State University. I am  also an expert Geospatial Data Analysis (GIS).
+## 👋 Hey There — I'm **Blessing Nehohwa**
+
+I'm a UK‑based **Data Scientist**, **Data Analyst**, **Machine Learning Engineer**, and **Business Analyst** with a strong academic and professional foundation in **Information Systems, Statistics, and Finance**.  
+
+I hold a **Master of Science (Distinction)** from the **University of East London**, where I specialized in **Data Science, Machine Learning, and Analytics**. I also earned a **Bachelor’s degree in Information Systems** from **Midlands State University**.
+
+My work blends analytical thinking, technical expertise, and business insight to transform data into meaningful, actionable solutions. I enjoy solving complex problems, building intelligent systems, and communicating insights in ways that drive real impact.
+
+### 🔧 **Technical Skills**
+- **Programming & Analytics:** Python, R, SQL  
+- **Data Visualization:** Tableau, Power BI, Excel  
+- **Machine Learning & Modelling:** Supervised/unsupervised learning, predictive analytics  
+- **Business & Communication:** Strong stakeholder engagement, analytical storytelling  
+
+### 🚀 **What I’m Passionate About**
+- Turning raw data into strategic insights  
+- Building scalable machine learning solutions  
+- Creating dashboards that empower decision‑makers  
+- Continuous learning and exploring new technologies  
+
+If you’re interested in data-driven innovation, feel free to explore my repositories or connect with me. Always excited to collaborate and build meaningful solutions.
+
 
 Check out [My Portfolio ](https://BlessingNehohwa.github.io/) | [blog](https://blessingnehohwa.github.io/blog) and you can reach me to through my [Email](blessingnehohwa@gmail.com)
 &nbsp;
