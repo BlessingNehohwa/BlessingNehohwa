@@ -1,5 +1,5 @@
 # 👋 Hi there — I'm Blessing Nehohwa
-🇬🇧 UK-based **Data Scientist | Data Analyst | Machine Learning Engineer | Business Analyst**
+🇬🇧 -based **Data Scientist | Data Analyst | Machine Learning Engineer | Business Analyst**
 ---
 ## 💡 About Me
 I’m a data-driven professional with a strong foundation in **Information Systems, Statistics, and Finance**, passionate about transforming complex data into meaningful insights that drive real-world impact.
